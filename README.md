@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Power1One" src="https://github.com/mario-hs/power1One/blob/main/src/assets/power1oner.png" width="160px">
+  <img alt="Power1One" src="https://github.com/mario-hs/power1One/blob/main/src/assets/power1one.png" width="160px">
 </p>
 
 <p align="center">

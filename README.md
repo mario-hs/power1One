@@ -48,8 +48,6 @@ $ npm install
 $ npx expo start
 ```
 
-O app estará disponível no seu browser pelo endereço http://localhost:5173/.
-
 ---
 
 Feito com 💛 by Mario Henrique 👋🏻
